@@ -1,0 +1,2 @@
+# scalacamp-basics
+Basic samples
